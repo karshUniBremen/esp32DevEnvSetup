@@ -1,0 +1,3 @@
+[submodule "esp-idf-repo"]
+	path = esp-idf-repo
+	url = /home/karsh/projects/github/Workspace/UP_WS/devTools/esp32DevEnvSetup/esp-idf
