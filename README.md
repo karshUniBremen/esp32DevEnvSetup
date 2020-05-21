@@ -3,7 +3,9 @@
 ## Setup procedure
 
 > git clone --recursive  https://github.com/karshUniBremen/esp32DevEnvSetup.git
+
 > cd esp32DevEnvSetup/esp-idf
+
 > git checkout 96b96ae244f360c84b71c8c3670e24a1186e9844
 
 ## After above set we are here!
