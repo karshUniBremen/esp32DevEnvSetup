@@ -13,5 +13,7 @@ All set now we are pointing to esp-idf snapshot when this project was started i.
 
 #### Now refer esp32 install document to setup the project in eclipse
 
-#### esp-idf version is 		release v3.3
-#### xtensa tool chain 		2019-r1
+
+### Version information
+##### esp-idf version is 		release v3.3
+##### xtensa tool chain 		2019-r1
