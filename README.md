@@ -11,5 +11,5 @@ All set now we are pointing to esp-idf snapshot when this project was started i.
 
 Now you can set IDF_PATH and tool chain path.
 
-esp-idf version is 		release v3.3
-xtensa tool chain 		2019-r1
+> esp-idf version is 		release v3.3
+> xtensa tool chain 		2019-r1
